@@ -1,7 +1,6 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=WELCOME%20%20TO%20MY%20WORLD%20&textBg=false&animation=twinkling&fontSize=40&desc=SeoBamm's%20GitHub%20Profile%20👨‍💻&reversal=false&fontAlign=50&descAlign=50&fontAlignY=39&descAlignY=53)
-<br/>
 
 <div/>
 
