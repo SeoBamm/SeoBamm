@@ -10,7 +10,6 @@
 ## 👋 About Me
 ..
 
-<br/>
 
 ## 💻 Tech Stacks
 
