@@ -3,11 +3,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=WELCOME%20%20TO%20MY%20WORLD%20&textBg=false&animation=twinkling&fontSize=40&desc=SeoBamm's%20GitHub%20Profile%20👨‍💻&reversal=false&fontAlign=50&descAlign=50&fontAlignY=39&descAlignY=53)
 
 <div/>
-
-<div align="left">
   
 ## 👋 About Me
 ..
+<br/><br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=txxxackd_01)](https://solved.ac/txxxackd_01/) <br/><br/>
+[![SeoBamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoBamm&hide=rank&show_icons=true&theme=apprentice)](https://github.com/SeoBamm/github-readme-stats)
 
 
 ## 💻 Tech Stacks
@@ -31,7 +32,6 @@
 <img src="https://img.shields.io/badge/microsoft%20azure-%230089D6.svg?&style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
-
 
 <br/>
 
