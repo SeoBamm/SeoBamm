@@ -30,8 +30,12 @@
 <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=aws&logoColor=white" />
 <img src="https://img.shields.io/badge/microsoft%20azure-%230089D6.svg?&style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-%7F41E7.svg?style=for-the-badge&logo=intellij-idea&logoColor=black&color=darkgray&labelColor=plum" />
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=darkgray&labelColor=green" />
+<img src="https://img.shields.io/badge/datagrip-143?style=for-the-badge&logo=datagrip&logoColor=black&color=darkgray&labelColor=cyan" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 <br/>
 
