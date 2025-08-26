@@ -5,10 +5,16 @@
 <div/>
   
 ## 👋 About Me
-..
+### 👥 Participating In 👥
+
+<span style="color:MediumSeaGreen">[iMBank] DiGital Banker Academy 6. Data-Analysis Class</span>
 <br/><br/>
+
+### 💻 Baekjoon Online Judge 💻
+<br/>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=txxxackd_01)](https://solved.ac/txxxackd_01/) <br/><br/>
-[![SeoBamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoBamm&hide=rank&show_icons=true&theme=apprentice)](https://github.com/SeoBamm/github-readme-stats)
+<!-- [![SeoBamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoBamm&hide=rank&show_icons=true&theme=apprentice)](https://github.com/SeoBamm/github-readme-stats) -->
 
 
 ## 💻 Tech Stacks
