@@ -7,7 +7,7 @@
 ## 👋 About Me
 ### 👥 Participating In 👥
 
-<span style="color:MediumSeaGreen">[iMBank] DiGital Banker Academy 6. Data-Analysis Class</span>
+<span style="color:MediumSeaGreen">[iMBank] iM DiGital Banker Academy 6. Data-Analysis Class</span>
 <br/><br/>
 
 ### 💻 Baekjoon Online Judge 💻
